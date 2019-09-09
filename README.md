@@ -4,5 +4,7 @@ les exercices de javascript
 Tout est fait.
 ## 2 - Maths
 factorielle pas fait
-## 3 - colors
+## 3 - Colors
+Terminé.
+## 4 - Dates
 En cours ...
