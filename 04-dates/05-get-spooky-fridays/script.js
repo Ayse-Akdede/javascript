@@ -11,20 +11,6 @@
 
 (() => {
     document.getElementById("run").addEventListener("click", () => {
-
-        // var m = new Array(13);
-        // m[1] = "Janvier";
-        // m[2] = "Février";
-        // m[3] = "Mars";
-        // m[4] = "Avril";
-        // m[5] = "Mai";
-        // m[6] = "Juin";
-        // m[7] = "Juillet";
-        // m[8] = "Août";
-        // m[9] = "Septembre";
-        // m[10] = "Octobre";
-        // m[11] = "Novembre";
-        // m[12] = "Décembre";
         var d = new Date(input);
         var moi = d.getMonth(); // les mois vont de 0 à 12
         var mois = new Array('Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre');
